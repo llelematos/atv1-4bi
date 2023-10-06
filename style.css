@@ -20,6 +20,7 @@
     height: 90px;
     margin:100px ;
     padding: 50px;
+    margin-inline: center;
 }
 
 .quarto{
@@ -28,4 +29,5 @@
     height: 110px;
     margin:120px ;
     padding: 75px;
+    margin-inline: center;
 }
